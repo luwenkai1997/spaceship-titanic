@@ -1,2 +1,1 @@
-# spaceship-titanic
-[Kaggle Competition] Spaceship Titanic: Predict which passengers are transported to an alternate dimension
+# [!Kaggle Competition](https://www.kaggle.com/competitions/spaceship-titanic/overview) Spaceship Titanic: Predict which passengers are transported to an alternate dimension
